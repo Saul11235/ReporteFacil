@@ -1,2 +1,4 @@
 # ReporteFacil
-A simple python library for easy xls files creation
+Una libreria sencilla para facilitar la creacion de reportes simples como hojas de Cácluclo
+#instalación
+Esta libreria hace uso de otras, para ejecutarse necesita 
